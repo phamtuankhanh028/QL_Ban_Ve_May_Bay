@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="src" path="libs" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Documents/ThuVienJava/LGoodDatePicker-11.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/commons-codec-1.15.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/commons-compress-1.20.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/curvesapi-1.06.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/itextpdf-5.5.12.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/jcalendar-1.4.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/mysql-connector-java-5.1.48-bin.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-examples-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-excelant-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-integration-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-ooxml-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-ooxml-full-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-ooxml-lite-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/poi-scratchpad-5.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/SparseBitSet-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/LapTrinhJava/QL_Ban_Ve_May_Bay/libs/xmlbeans-4.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin" />
+</classpath>
